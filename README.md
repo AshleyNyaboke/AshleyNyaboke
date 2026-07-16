@@ -1,8 +1,77 @@
- Data Scientist | Python & SQL Expert | Turning complex data into actionable growth. Specialized in Predictive Modeling and Exploratory Data Analysis. Let’s build something data-driven.
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AshleyNyaboke&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AshleyNyaboke&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshleyNyaboke&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# Hi, I'm Ashley Nyaboke 
 
+## Data Scientist | AI & ML for Kenya Fintech 🇰🇪
+
+I build and deploy AI-powered solutions that solve real 
+financial inclusion challenges in Kenya. I don't just 
+study data science — I ship real products.
+
+---
+
+##  What I Build With AI & ML
+
+Every project I build targets a real Kenyan business problem:
+
+| Project | Algorithm | Accuracy | Status |
+|---|---|---|---|
+|  SME Payment Adoption Predictor | Random Forest | 89% | ✅ Live |
+|  Alternative Credit Scoring | Random Forest | 84.50% | ✅ Live |
+|  Mobile Money Fraud Detection | Isolation Forest | In Progress | 🔨 Building |
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+
+---
+
+##  Live Projects
+
+🏦 **SME Digital Payment Adoption Predictor**
+Predicts which Kenyan SMEs will adopt Absa paybill 303030 
+via the Absa-Airtel Money partnership using AI.
+👉 [Live Dashboard](https://sme-payment-adoption-predictor-g2blvm6ahp7pde42wmujyq.streamlit.app/)
+
+🤝 **Alternative Credit Scoring for Unbanked Kenyans**
+AI credit scoring for boda boda riders, mama mbogas and 
+jua kali artisans using mobile money behaviour — no 
+payslips required.
+👉 [Live Dashboard](https://alternative-credit-scoring-upgraded-yukj8ejcyvcbbbyyau7zzp.streamlit.app/)
+
+---
+
+##  Currently Building
+
+🔍 **Mobile Money Fraud Detection System**
+AI anomaly detection model identifying suspicious M-Pesa 
+style transactions in real time using Isolation Forest — 
+the gold standard algorithm for fraud detection in fintech.
+
+---
+
+##  What I'm Looking For
+
+Actively seeking **Data Scientist**, **BI Analyst** 
+or **AI/ML** roles in fintech, banking or financial services.
+Open to on-site, hybrid and remote opportunities globally.
+
+---
+
+##  Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashley-nyaboke/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/AshleyNyaboke)
+
+---
+
+*Building AI solutions for Kenya's financial future — 
+one project at a time* 🇰🇪💙
