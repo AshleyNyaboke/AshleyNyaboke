@@ -9,8 +9,6 @@ financial inclusion challenges in Kenya.
 
 ##  What I Build With AI & ML
 
-Every project I build targets a real Kenyan business problem:
-
 ###  Featured Data & AI Projects
 
 Every project I build targets a real Kenyan business problem across FinTech and Green Finance:
