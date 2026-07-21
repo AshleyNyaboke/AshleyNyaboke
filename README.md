@@ -1,10 +1,9 @@
 # Hi, I'm Ashley Nyaboke 
 
-## Data Scientist | AI & ML for Kenya Fintech 🇰🇪
+## Data Scientist & BI Analyst | Building ML & Analytics solutions for the Kenyan FinTech & Green Finance space | Passionate about financial inclusion & digital payments
 
 I build and deploy AI-powered solutions that solve real 
-financial inclusion challenges in Kenya. I don't just 
-study data science — I ship real products.
+financial inclusion challenges in Kenya. 
 
 ---
 
@@ -12,11 +11,16 @@ study data science — I ship real products.
 
 Every project I build targets a real Kenyan business problem:
 
-| Project | Algorithm | Accuracy | Status |
-|---|---|---|---|
-|  SME Payment Adoption Predictor | Random Forest | 89% | ✅ Live |
-|  Alternative Credit Scoring | Random Forest | 84.50% | ✅ Live |
-|  Mobile Money Fraud Detection | Isolation Forest | In Progress | 🔨 Building |
+###  Featured Data & AI Projects
+
+Every project I build targets a real Kenyan business problem across FinTech and Green Finance:
+
+| Project | Tech Stack | Key Focus / Results | Status |
+| :--- | :--- | :--- | :--- |
+| **Kenya Carbon FinTech Analytics** | Power BI, DAX, Star Schema, M-Code | Micro-payouts, RBF & Carbon Sequestration Tracking | [✅ Repo](https://github.com/AshleyNyaboke/Kenya-Carbon-FinTech-Analysis) |
+| **SME Payment Adoption Predictor** | Random Forest, Python, Streamlit | 89% Accuracy on SME Digital Payment Adoption | [✅ Live](https://sme-payment-adoption-predictor-g2blvm6ahp7pde42wmujyo.streamlit.app/) |
+| **Alternative Credit Scoring** | Random Forest, Python, Streamlit | 84.5% Accuracy on Non-Traditional Credit Assessment | ✅ Live |
+
 
 ---
 
@@ -31,7 +35,7 @@ Every project I build targets a real Kenyan business problem:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ---
 
 ##  Live Projects
@@ -49,14 +53,6 @@ payslips required.
 
 ---
 
-##  Currently Building
-
-🔍 **Mobile Money Fraud Detection System**
-AI anomaly detection model identifying suspicious M-Pesa 
-style transactions in real time using Isolation Forest — 
-the gold standard algorithm for fraud detection in fintech.
-
----
 
 ##  What I'm Looking For
 
