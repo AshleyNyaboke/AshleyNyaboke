@@ -18,6 +18,7 @@ Every project I build targets a real Kenyan business problem across FinTech and 
 | **Kenya Carbon FinTech Analytics** | Power BI, DAX, Star Schema, M-Code | Micro-payouts, RBF & Carbon Sequestration Tracking | [✅ Repo](https://github.com/AshleyNyaboke/Kenya-Carbon-FinTech-Analysis) |
 | **SME Payment Adoption Predictor** | Random Forest, Python, Streamlit | 89% Accuracy on SME Digital Payment Adoption | [✅ Live](https://sme-payment-adoption-predictor-g2blvm6ahp7pde42wmujyo.streamlit.app/) |
 | **Alternative Credit Scoring** | Random Forest, Python, Streamlit | 84.5% Accuracy on Non-Traditional Credit Assessment | ✅ Live |
+| **M-Pesa vs Airtel Wallet Price War** | HTML, CSS, JavaScript | Interactive cost simulator comparing 2026 mobile money business tariffs; models 54% fee savings at scale | ✅ [Live](https://ashleynyaboke.github.io/wallet-price-war/) |
 
 
 ---
